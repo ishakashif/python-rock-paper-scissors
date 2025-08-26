@@ -27,4 +27,4 @@ while playing:
         playing = False
 print("Thanks for playing!")
 
-#40
+#13s
